@@ -1,0 +1,19 @@
+#nprogress .bar {
+    height: 4px !important;
+}
+
+.nav a:hover {
+    border:none;
+    border-bottom: white 2px solid;
+    font-size: 18px;
+    transition: font-size 0.5s;
+    transition-timing-function: ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+}
+
+.nav a:active,a:link{
+    border:none;
+}

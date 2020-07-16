@@ -1,0 +1,28 @@
+form {
+    width:80%;
+}
+
+.form-group {
+    padding-bottom: 10px;
+}
+
+::-webkit-scrollbar {
+    width: 0.5em;
+  }
+   
+ ::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+    border-radius: 10px;
+  }
+
+/* input:hover {
+    border: cornflowerblue 2px solid;
+    height: 60px;
+    transition: height 0.5s;
+    transition-timing-function: ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+} */
